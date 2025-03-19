@@ -1,5 +1,6 @@
 ## AI Video link (Demo):
 https://drive.google.com/file/d/1Xvuw0it6Q5bhnTshO58_etrSOgRGIjYu/view?usp=sharing
+![VetConnect AI Assist](https://github.com/user-attachments/assets/b72dcd9e-8f82-419e-b907-4778428b6e22)
 
 ## Application Name
 VetConnect AI
