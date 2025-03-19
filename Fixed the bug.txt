@@ -1,0 +1,10 @@
+Fix the bug:
+1. go to android > settings.grandle
+2. id "com.android.application" version "8.3.2" apply false
+3. go to android > gradle/wrapper > gradle-wrapper.properties
+4. distributionUrl=https\://services.gradle.org/distributions/gradle-8.4-all.zip
+5. run the lib > main.dart again.
+
+How to run.
+1. ctrl shift p, launch the simulator
+2. run the lib > main.dart .
