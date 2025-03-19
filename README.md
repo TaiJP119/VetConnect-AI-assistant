@@ -1,11 +1,11 @@
+## AI Video link (Demo):
+https://drive.google.com/file/d/1Xvuw0it6Q5bhnTshO58_etrSOgRGIjYu/view?usp=sharing
+
 ## Application Name
 VetConnect AI
 
 ## VetConnect Draft Figma link 
 https://www.figma.com/proto/ft8AWvQCmUt15TzlQPsWbB/Vetconnect?node-id=3-877&t=WR6MaOOxmVHrUjVx-1
-
-## AI Video link (Demo):
-
 
 ## Github Link:
 https://github.com/TaiJP119/VetConnect-AI-assistant
